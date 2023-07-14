@@ -1,2 +1,2 @@
 # RGN SignInGuest
-Package version: 0.6.0-dev.284
+Package version: 0.6.0-dev.285
