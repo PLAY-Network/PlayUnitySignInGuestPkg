@@ -1,2 +1,2 @@
 # RGN SignInGuest
-Package version: 0.8.0-dev.404
+Package version: 0.8.0-dev.405
