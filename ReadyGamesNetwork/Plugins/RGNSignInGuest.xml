@@ -4,6 +4,13 @@
         <name>RGNSignInGuest</name>
     </assembly>
     <members>
+        <member name="T:RGN.Modules.SignIn.GuestSignInModule">
+            <summary>
+            This module is used to create guest accounts for the users
+            After creating the guest anonymous account you can store the data in the cloud
+            Later when an email account is created, the user data will be merged to the email account.
+            </summary>
+        </member>
         <member name="M:RGN.Modules.SignIn.GuestSignInModule.TryToSignInAsync">
             <summary>
             Tries to sign in with anonymous account to Ready Games Network (RGN)
