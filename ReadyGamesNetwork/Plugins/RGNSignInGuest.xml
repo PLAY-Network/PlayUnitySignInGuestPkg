@@ -11,10 +11,11 @@
             Later when an email account is created, the user data will be merged to the email account.
             </summary>
         </member>
-        <member name="M:RGN.Modules.SignIn.GuestSignInModule.TryToSignInAsync">
+        <member name="M:RGN.Modules.SignIn.GuestSignInModule.TryToSignInAsync(RGN.Modules.SignIn.Models.RGNGuestSignInCallbackDelegate)">
             <summary>
             Tries to sign in with anonymous account to Ready Games Network (RGN)
             </summary>
+            <param name="callback">The callback that should be called once the signIn will be completed</param>
         </member>
         <member name="M:RGN.Modules.SignIn.GuestSignInModule.SignOut">
             <summary>
