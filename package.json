@@ -1,5 +1,5 @@
 ﻿{
-  "name": "io.getready.rgn.signin.guest",
+  "name": "io.play.unity.signin.guest",
   "displayName": "PLAY SDK. SignIn Guest",
   "version": "0.16.0",
   "unity": "2020.3",
@@ -26,6 +26,6 @@
     "/ReadyGamesNetwork.meta"
   ],
   "dependencies": {
-    "io.getready.rgn.core": "0.16.0"
+    "io.play.unity.core": "0.16.0"
   }
 }

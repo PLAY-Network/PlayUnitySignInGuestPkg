@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>RGNSignInGuest</name>
+        <name>SignInGuest</name>
     </assembly>
     <members>
         <member name="T:RGN.Modules.SignIn.GuestSignInModule">
