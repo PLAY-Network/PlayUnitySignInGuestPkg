@@ -1,1 +1,2 @@
-# Play SDK Guest SignIn
+# Play SDK SignInGuest
+Package version: 0.16.0-dev.10
